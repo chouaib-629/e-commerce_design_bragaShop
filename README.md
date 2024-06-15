@@ -1,7 +1,17 @@
 # Braga Shop
 
-## Description
 Braga Shop is a stylish and modern e-commerce website template designed to showcase and sell products online. It features a responsive layout, intuitive navigation, and a clean design that highlights your product offerings. The website is built using HTML, CSS, and JavaScript.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [File Structure](#file-structure)
+- [Customization](#customization)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Contact Information](#contact-information)
 
 ## Features
 - Responsive design for all devices
